@@ -1,0 +1,25 @@
+pytorch-transformers==1.1.0
+numpy>=1.16.4
+lmdb==0.94
+
+# see https://github.com/facebookresearch/vilbert-multi-task/issues/46#issuecomment-690836978
+# tensorboardX==1.8
+tensorboardX==2.0
+
+tensorflow==2.4.0
+
+# see https://github.com/facebookresearch/vilbert-multi-task/issues/46#issuecomment-690836978
+# tensorpack==0.9.4
+tensorpack==0.10.1
+
+tqdm==4.31.1
+easydict==1.9
+PyYAML==5.1.2
+jsonlines==1.2.0
+json-lines==0.5.0
+matplotlib
+Cython
+# python-prctl
+msgpack
+msgpack-numpy
+opencv-python==4.2.0.34
